@@ -10,7 +10,7 @@ Kelas : TI.22.A1
 | No | Description | Link |
 |-----|------|-----|
 |1|PIP|[Click Here](#PIP)|
-|2|Web Scraping|[Click Here](#Web-Scraping)|
+|2|Web Scraping|[Click Here](#Web-Scraping-Menggunakan-Python)|
 |3|Python|[Click Here](#Python)|
 |4|Google Colab|[Click Here](#Google-Colab)|
 
