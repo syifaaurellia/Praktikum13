@@ -34,7 +34,7 @@ Kelas : TI.22.A1
 ### Introducing
 - Data Scraping adalah suatu teknik dalam mengumpulkan data dari berbagai sumber data.
 - Salah satunya adalah dari website, sehingga lebih dikenal dengan Web Scraping.
-- Secara Umum ada dua teknik dalam Web Scraping yaitu Manual (copy paste), dan Otomatis (dengan software/tools).
+- Secara Umum ada dua teknik dalam Web Scraping yaitu *Manual* (copy paste), dan *Otomatis* (dengan software/tools).
 
 ### Teknik Web Scraping :
 - Menyalin data secara manual
