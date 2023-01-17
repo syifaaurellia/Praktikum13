@@ -110,7 +110,7 @@ Kelas : TI.22.A1
 ![10](https://user-images.githubusercontent.com/115867244/212947003-3107571c-4991-4228-bfdb-be05ac728b72.png)
 
 
-5. Kemudian Import Library yang telah kita install sebelumnya, untuk tampilannya seperti pada gambar di bawah ini :
+5. Kemudian Import Library yang telah kita install sebelumnya, untuk tampilannya seperti pada gambar dibawah ini :
 
 ![11](https://user-images.githubusercontent.com/115867244/212947299-ca80b64c-d000-43aa-b128-be8eab976534.png)
 
