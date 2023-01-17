@@ -10,7 +10,7 @@ Kelas : TI.22.A1
 | No | Description | Link |
 |-----|------|-----|
 |1|PIP|[Click Here](#PIP)|
-|2|Web Scraping|[Click Here](#Web-Scraping)|
+|2|Web Scraping|[Click Here](#Web-Scraping-Menggunakan-Python)|
 |3|Python|[Click Here](#Python)|
 |4|Google Colab|[Click Here](#Google-Colab)|
 
@@ -115,4 +115,19 @@ Kelas : TI.22.A1
 ![11](https://user-images.githubusercontent.com/115867244/212947299-ca80b64c-d000-43aa-b128-be8eab976534.png)
 
 
-6. Kemudian ketik program yang akan dijalankan (Saya menggunakan program Studi Kasus 4: BukaLapak (URL :
+6. Kemudian ketik program yang akan dijalankan (Saya menggunakan program *Studi Kasus 4: BukaLapak (URL : https://www.bukalapak.com/c/komputer/laptop?from=nav_header)*
+
+![12](https://user-images.githubusercontent.com/115867244/212950100-ce21c7b2-dab8-4e32-9051-269b9b68bc70.png)
+
+
+7. Untuk tampilan lengkapnya sebagai berikut :
+
+![13](https://user-images.githubusercontent.com/115867244/212950391-2ec3d94a-2e1d-4e4b-9bdc-8e08b5a36bc3.png)
+
+
+8. JJika sudah benar dan berhasil di RUN maka akan menghasilkan output seperti gambar di bawah ini :
+
+![14](https://user-images.githubusercontent.com/115867244/212950863-3c0b6f20-474f-4d7b-a0af-57fc793c0dcb.png)
+
+
+## Sekian, Terimakasih
